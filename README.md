@@ -6,9 +6,9 @@ online children's adaptation service, and many more.
 
 SOFTWARE REQUIREMENTS
 Operating system: Windows 10
-Frontend: HTML, CSS, Javascript
-Backend: PHP 
-Database: MySQL
+Frontend: PHP
+Backend: MySQL
+IDE: Visual Studio Code
 
 HARDWARE REQUIREMENTS
 Processor: core i3 and above
